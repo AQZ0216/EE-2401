@@ -1,0 +1,5 @@
+# MCU 8051 IDE: Virtual HW component configuration file
+# Project: HW4_3
+# Component: DS1620 temperature sensor
+
+Ds1620 {{4 1 0 1 5 1 1 1 2 1 3 1} {4 3 0 7 5 2 1 6 2 5 3 4} {} {} 46 34 0 300x200+192+192 withdrawn 37 0 1 0}
